@@ -63,6 +63,7 @@ Each test is designed to verify specific aspects of the application in isolation
 For example receipts, see the examples directory.
 
 ## Project Structure
+`
 receipt-processor/ 
 ├── main.go  # entry point
 ├── handlers/ 
@@ -81,3 +82,4 @@ receipt-processor/
 ├── go.mod 
 ├── go.sum 
 └── README.md
+`
